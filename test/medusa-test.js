@@ -91,7 +91,7 @@ describe('Person', function() {
     assert.equal(person.name, 'Steve');
   });
 
-  it.skip('should be stoned after looking into Medusas eyes', function() {
+  it('should be stoned after looking into Medusas eyes', function() {
     var medusa = new Medusa('Brenna');
     var victim = new Person('Jhun');
 
