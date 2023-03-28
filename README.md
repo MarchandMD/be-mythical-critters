@@ -46,15 +46,15 @@ These are the critters we are asking you to complete for pre-work.
 * `werewolf` x
 * `centaur` x
 * `direwolf` x
-* `fairy`
-* `ogre`
+* `fairy` x
+* `ogre` x
 * `sphinx`
 
 ### Extra Critters
 If you've done the critters above and feel comfortable with those, try conquering a few more critters!
 
 * `vampire`
-* `dragon`
+* `dragon` - x
 * `hobbit`
 * `pirate`
 * `wizard`
