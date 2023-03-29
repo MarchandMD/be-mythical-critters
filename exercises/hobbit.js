@@ -6,11 +6,12 @@ class Hobbit {
       this.adult = false
       this.old = false
       this.isShort = true
-      if (this.name == 'Frodo') {
-        this.hasRing = true
-      } else {
-        this.hasRing = false
-      }
+      // if (this.name == 'Frodo') {
+      //   this.hasRing = true
+      // } else {
+      //   this.hasRing = false
+      // }
+    this.hasRing = this.name === "Frodo"
     }
 
   celebrateBirthday() {
