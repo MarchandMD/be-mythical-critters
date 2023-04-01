@@ -56,8 +56,8 @@ If you've done the critters above and feel comfortable with those, try conquerin
 * `vampire` - x
 * `dragon` - x
 * `hobbit` - x
-* `pirate`
-* `wizard`
+* `pirate` - x
+* `wizard` - x
 * `witch` (HARD)
 
 ### Extra Challenges
